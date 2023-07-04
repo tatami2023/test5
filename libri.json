@@ -1,0 +1,27 @@
+[
+     
+    {
+        "img":"https://www.lafeltrinelli.it/images/9788831003384_0_536_0_75.jpg",
+      "autore": "J.K Rowling",
+      "genere": "Fantasy",
+      "titolo": "Harry potter e la pietra filosofale" 
+    }, 
+    {
+        "img":"https://www.maremagnum.com/it/libri-antichi/storie-di-ordinaria-follia/165506999/",
+      "autore": "Charles bukowski",
+      "genere": "racconto",
+      "titolo": "Storie di ordinaria follia"
+    },
+    {
+        "img":"https://www.villadivinredentore.it/post/in-nome-della-madre-erri-de-luca",
+      "autore": "Erri de Luca",
+      "genere": "Romanzo",
+      "titolo": "Il nome della madre"
+    },
+    {
+        "img":"https://www.unlibrotiralaltroovveroilpassaparoladeilibri.it/wp-content/uploads/2020/02/LINSOSTENIBILE-LEGGEREZZA-DELLESSERE-Milan-Kundera-1-e1582318753154.jpg",
+      "autore": "Milan Kundera",
+      "genere": "Romanzo",
+      "titolo": "L'insostenibile leggerezza dell'essere"
+    }
+  ]
